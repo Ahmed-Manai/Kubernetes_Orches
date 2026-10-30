@@ -1,3 +1,7 @@
 #kubectl and minikube
 kubectl
 minikube-linux-amd64
+
+# local dependencies are installed inside the image
+node_modules
+npm-debug.log
